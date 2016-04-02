@@ -1,4 +1,5 @@
 # Config_editor
+
  <i class="icon-cog"></i> **Settings**
 
  > **Sublime text 3**
@@ -11,16 +12,20 @@ import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc5
 ```
 
 ### how it work ? 
+
 Ctrl + Shift + P  =>  just write " Install "
 
  > **List of packages**
+
 | Package 
 | :------- | 
 | Material theme |
 | Nettus & Fetch |
 | PlainTasks |
 
+
  * PlainTasks :  Preferences > Packages Settings > PlainTasks > User settings, add this code
+
 
 ```
 {
@@ -29,6 +34,7 @@ Ctrl + Shift + P  =>  just write " Install "
     "font_size": 15
 
 }
+
 ```
 
 
@@ -38,6 +44,7 @@ Ctrl + Shift + P  =>  just write " Install "
 
 
 * Nettus & Fetch : Ctrl + Shift + p
+
 | Actions
 | :------- | 
 | Fetch File |
